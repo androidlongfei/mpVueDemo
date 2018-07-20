@@ -40,8 +40,7 @@ export default {
     methods: {
         bindViewTap() {
             const url = '../logs/main'
-            // wx.navigateTo({ url })
-            wx.navigateTo({ url: '../test/main' })
+            wx.navigateTo({ url })
         },
         getUserInfo() {
             // 调用登录接口

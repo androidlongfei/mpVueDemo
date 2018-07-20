@@ -6,6 +6,6 @@ app.$mount()
 
 export default {
     config: {
-        navigationBarTitleText: '首页'
+        navigationBarTitleText: '评估报告首页'
     }
 }
